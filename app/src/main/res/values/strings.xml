@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DayCounter</string>
+    <string name="appwidget_text">DAY COUNTER</string>
+    <string name="add_widget">Add widget</string>
+</resources>
